@@ -1,0 +1,11 @@
+C:\Users\BOGDAN\source\repos\Labka6\Labka6\bin\Debug\netcoreapp2.1\Labka6.deps.json
+C:\Users\BOGDAN\source\repos\Labka6\Labka6\bin\Debug\netcoreapp2.1\Labka6.runtimeconfig.json
+C:\Users\BOGDAN\source\repos\Labka6\Labka6\bin\Debug\netcoreapp2.1\Labka6.runtimeconfig.dev.json
+C:\Users\BOGDAN\source\repos\Labka6\Labka6\bin\Debug\netcoreapp2.1\Labka6.dll
+C:\Users\BOGDAN\source\repos\Labka6\Labka6\bin\Debug\netcoreapp2.1\Labka6.pdb
+C:\Users\BOGDAN\source\repos\Labka6\Labka6\obj\Debug\netcoreapp2.1\Labka6.csprojAssemblyReference.cache
+C:\Users\BOGDAN\source\repos\Labka6\Labka6\obj\Debug\netcoreapp2.1\Labka6.csproj.CoreCompileInputs.cache
+C:\Users\BOGDAN\source\repos\Labka6\Labka6\obj\Debug\netcoreapp2.1\Labka6.AssemblyInfoInputs.cache
+C:\Users\BOGDAN\source\repos\Labka6\Labka6\obj\Debug\netcoreapp2.1\Labka6.AssemblyInfo.cs
+C:\Users\BOGDAN\source\repos\Labka6\Labka6\obj\Debug\netcoreapp2.1\Labka6.dll
+C:\Users\BOGDAN\source\repos\Labka6\Labka6\obj\Debug\netcoreapp2.1\Labka6.pdb
